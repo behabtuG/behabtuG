@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @behabtuG
 - 👀 I’m interested in science and technology 
 - 🌱 I’m currently learning sofware developemnt 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different learning curves 
 - 📫 How to reach me ...
 
 <!---
