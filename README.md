@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Behabtu Getnet Walle
 
-I'm a **Software Engineer** at **Amhara Bank** with over **8 years of experience** in full-stack development, specializing in **MERN stack**, **Next.js**, **Java EE**, **Spring Boot**, and **DevOps tools** like Docker and Kafka. I hold a Bachelor’s in **Electrical and Computer Engineering** from Hawassa University and have led and contributed to impactful projects, including ERP systems, internet banking platforms, and e-invoicing solutions.
+I'm a Software Engineer at Amhara Bank with over 8 years of experience in full-stack development, specializing in MERN stack, Next.js, Java EE, Spring Boot, and DevOps tools like Docker and Kafka. I hold a Bachelor’s in Electrical and Computer Engineering from Hawassa University and have led and contributed to impactful projects, including ERP systems, internet banking platforms, and e-invoicing solutions.
 
 - 👀 **Passionate About**: Science, technology, and building scalable, innovative software solutions.
 - 🌱 **Currently Exploring**: Advanced DevOps practices, microservices architecture, and Flutter for cross-platform apps.
@@ -14,8 +14,8 @@ I'm a **Software Engineer** at **Amhara Bank** with over **8 years of experience
 - **[Behabtu Blogs](https://behabtu-blogs.vercel.app/)**  
   A blog platform hosted on Vercel, built with Next.js, sharing insights on software development, ERP systems, and real-time data solutions.
 
-- **[Personal Portfolio](https://github.com/behabtuG/my-portfolio)**  
-  My professional portfolio showcasing my projects and skills, developed with Next.js and deployed on Vercel (link to live site coming soon!).
+- **[Personal Portfolio](https://behabtu-portfolio.vercel.app/))**  
+  My professional portfolio showcases my projects and skills, which I developed with Next.js and deployed on Vercel.
 
 ---
 
@@ -34,13 +34,6 @@ I'm a **Software Engineer** at **Amhara Bank** with over **8 years of experience
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Behabtu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=behabtuG&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behabtuG&layout=compact&theme=radical&hide_border=true)
 
 ---
 
