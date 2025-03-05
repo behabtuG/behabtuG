@@ -14,7 +14,7 @@ I'm a **Software Engineer** at **Amhara Bank** with over **8 years of experience
 **[Behabtu Blogs](https://behabtu-blogs.vercel.app/)**  
   A blog platform hosted on Vercel, built with Next.js, sharing insights on software development, ERP systems, and real-time data solutions.
 
-- **[Personal Portfolio](https://github.com/behabtuG/my-portfolio)**  
+**[Personal Portfolio](https://github.com/behabtuG/my-portfolio)**  
   My professional portfolio showcasing my projects and skills, developed with Next.js and deployed on Vercel (link to live site coming soon!).
 
 ---
