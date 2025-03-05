@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
     fullstack - MERN stack
     
 
-#Connect with me
+# Connect with me
 
-Email LinkedIn
-Technologies and Tools I use
+behabtu.getnet@gmail.com [LinkedIn](https://www.linkedin.com/in/behabtu-getnet-a4575692/)
+# Technologies and Tools I use
 Java Spring Rust Go JavaScript HTML5 CSS3 Git GitHub Docker VS Code
