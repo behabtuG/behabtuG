@@ -11,22 +11,11 @@ I'm a **Software Engineer** at **Amhara Bank** with over **8 years of experience
 
 ## 🚀 Key Projects
 
-- **[Amhara Bank Project Management System](https://github.com/behabtuG/amhara-pmo)**  
-  A full-stack MERN app for project management, featuring task tracking and reporting dashboards.
+**[Behabtu Blogs](https://behabtu-blogs.vercel.app/)**  
+  A blog platform hosted on Vercel, built with Next.js, sharing insights on software development, ERP systems, and real-time data solutions.
 
-- **[Internet Banking System](https://github.com/behabtuG/internet-banking)**  
-  A secure banking platform built with Next.js and Express.js, integrating real-time financial services.
-
-- **[Ethiopian Ministry of Revenue E-Invoice System](https://github.com/behabtuG/e-invoice)**  
-  An e-invoicing solution using Spring Boot, React.js, Kafka, and MongoDB for real-time data processing.
-
-- **[Ethiopian Electric Power ERP](https://github.com/behabtuG/eep-erp)**  
-  An ERP system developed with Java EE and Oracle Database for power management.
-
-- **[Ministry of Foreign Affairs HRM](https://github.com/behabtuG/mofa-hrm)**  
-  A supervised HRM system built with Java EE and Oracle, featuring leave and payroll management.
-
-> *Note*: Links are placeholders—replace with your actual repo URLs or live demo links!
+- **[Personal Portfolio](https://github.com/behabtuG/my-portfolio)**  
+  My professional portfolio showcasing my projects and skills, developed with Next.js and deployed on Vercel (link to live site coming soon!).
 
 ---
 
