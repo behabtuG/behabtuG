@@ -41,8 +41,7 @@ I'm a Software Engineer at Amhara Bank with over 8 years of experience in full-s
 
 - 📧 Email: [behabtu.getnet@gmail.com](mailto:behabtu.getnet@gmail.com)
 - 🔗 LinkedIn: [Behabtu Getnet](https://www.linkedin.com/in/behabtu-getnet-a4575692/)
-- 🌍 Portfolio: [Coming Soon](#) *(Add your portfolio link here!)*
-
+- 🌍 Portfolio: [Behabtu Getnet](https://behabtu-portfolio.vercel.app/)
 ---
 
 <!---
